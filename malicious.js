@@ -1,1 +1,1 @@
-alert(1);
+alert("you have been hacked");
